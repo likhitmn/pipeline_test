@@ -1,2 +1,0 @@
-# pipeline_test
-demo
