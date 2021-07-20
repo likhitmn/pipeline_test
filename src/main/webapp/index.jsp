@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>test pipeline</title>
+    <title>Test pipeline</title>
    </head>
 <body bgcolor="#000fff">
 <center><h1>DOCKER DEPLOYMENT test</h1></center>
